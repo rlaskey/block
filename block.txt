@@ -1,0 +1,227 @@
+! Author: Richard Laskey https://www.rlaskey.org
+! https://raw.githubusercontent.com/rlaskey/block/master/block.txt
+! https://github.com/rlaskey/block
+
+! a-mo-be
+||kontera.com^
+
+! adMarketplace
+||ampxchange.com^
+
+! Adobe
+||adobetag.com^
+||demdex.net^
+||omtrdc.net^
+
+! Amplitude
+||api.amplitude.com^
+
+! AOL
+||adsonar.com^
+||advertising.com^$third-party
+||atwola.com^
+||pictela.net^
+||tacoda.net^
+
+! AppNexus
+||adnxs.com^
+
+! Bizo
+||bizographics.com^
+
+! BlueKai: Oracle Marketing Cloud
+||bkrtx.com^
+||bluekai.com^$third-party
+
+! Chartbeat
+||chartbeat.net^
+||chartbeat.com^$third-party
+
+! ClickTale
+||clicktale.net^
+
+! Clicky
+||getclicky.com^
+
+! Conversant
+||fastclick.net^
+
+! Criteo
+||gscontxt.net^
+
+! Effective Measure
+||effectivemeasure.net^
+
+! eXelate
+||exelator.com^
+
+! Facebook
+||atdmt.com^
+||facebook.com/connect^
+||facebook.com/tr^
+
+! Ghostery
+||betrad.com^
+
+! Google
+||doubleclick.net^
+||google-analytics.com^
+||googleadservices.com^
+||googlesyndication.com^
+||googletagmanager.com^
+||googletagservices.com^
+
+! Hubspot
+||hs-analytics.net^
+
+! Index Exchange
+||casalemedia.com^
+
+! Keywee
+||keywee.co^$third-party
+
+! Korrelate
+||korrelate.net^
+
+! Krux
+||krxd.net^
+
+! Lotame
+||crwdcntrl.net^
+
+! Magnetic
+||domdex.com^
+
+! Mather Economics
+||matheranalytics.com^
+
+! Maxymiser
+||maxymiser.net^
+
+! MediaMath
+||mathtag.com^
+
+! Mixpanel
+||mxpnl.com^
+
+! Moat
+||moatads.com^
+
+! Monetate
+||monetate.net^
+
+! Nativo
+||postrelease.com^
+
+! Nielsen
+||imrworldwide.com^
+
+! OpenX
+||servedbyopenx.com
+
+! Outbrain
+||outbrain.com^$third-party
+||visualrevenue.com^
+
+! Purch
+||servebom.com^
+
+! Quantcast
+||quantserve.com^
+
+! Qubit
+||qubitproducts.com^
+
+! Segment
+||cdn.segment.com^
+
+! Signal.co
+||btstatic.com^
+
+! Skimlinks
+||skimresources.com^
+
+! Taboola
+||perfectmarket.com^$third-party
+||taboola.com^$third-party
+||taboolasyndication.com^
+
+! Tinypass
+||swishu.com^
+||tinypass.com^$third-party
+
+! trueAnthem
+||tru.am^
+
+! Twitter
+||syndication.twitter.com^
+
+! Vibrant
+||intellitxt.com^
+
+! Webtrends
+||webtrends.com^$third-party
+||webtrendslive.com^
+
+! Yieldbot
+||yldbt.com^
+
+
+! Others
+||4dsply.com^$third-party
+||adblade.com^$third-party
+||adextent.com^$third-party
+||addthis.com^$third-party
+||admantx.com^$third-party
+||adpushup.com^$third-party
+||adsafeprotected.com^
+||atom-data.io^
+||boomtrain.com^$third-party
+||bounceexchange.com^$third-party
+||buysellads.com^$third-party
+||contextly.com^$third-party
+||copperegg.com^$third-party
+||criteo.com^$third-party
+||dynamicyield.com^$third-party
+||ensighten.com^$third-party
+||exoclick.com^$third-party
+||fwmrm.net^$third-party
+||gigya.com^$third-party
+||gravity.com^$third-party
+||gumgum.com^$third-party
+||kargo.com^$third-party
+||kissmetrics.com^$third-party
+||liverail.com^$third-party
+||madisonlogic.com^$third-party
+||mediavoice.com^$third-party
+||mookie1.com^$third-party
+||optimizely.com^$third-party
+||pagefair.com^$third-party
+||parsely.com^$third-party
+||pointroll.com^$third-party
+||polarmobile.com^$third-party
+||pubexchange.com^$third-party
+||pubmatic.com^$third-party
+||recruitics.com^$third-party
+||researchnow.com^$third-party
+||revcontent.com^$third-party
+||rubiconproject.com^$third-party
+||sail-horizon.com^
+||saymedia.com^$third-party
+||scorecardresearch.com^$third-party
+||sharethis.com^$third-party
+||sharethrough.com^$third-party
+||simplereach.com^$third-party
+||sonobi.com^$third-party
+||steelhousemedia.com^$third-party
+||swoop.com^$third-party
+||tagsrvcs.com^
+||teads.tv^$third-party
+||tubemogul.com^$third-party
+||turn.com^$third-party
+||tynt.com^$third-party
+||umbel.com^$third-party
+||woopra.com^$third-party
+||yieldmo.com^$third-party
+||yieldoptimizer.com^
+||zemanta.com^$third-party
