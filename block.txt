@@ -184,6 +184,7 @@
 ||contextly.com^$third-party
 ||copperegg.com^$third-party
 ||criteo.com^$third-party
+||cxense.com^$third-party
 ||dynamicyield.com^$third-party
 ||ensighten.com^$third-party
 ||exoclick.com^$third-party
