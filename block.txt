@@ -19,11 +19,9 @@
 ||api.amplitude.com^
 
 ! AOL
-||adsonar.com^
 ||advertising.com^$third-party
 ||atwola.com^
 ||pictela.net^
-||tacoda.net^
 
 ! AppNexus
 ||adnxs.com^
@@ -172,7 +170,6 @@
 ! Others
 ||4dsply.com^$third-party
 ||adblade.com^$third-party
-||adextent.com^$third-party
 ||addthis.com^$third-party
 ||admantx.com^$third-party
 ||adpushup.com^$third-party
