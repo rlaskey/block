@@ -4,21 +4,23 @@
 ! https://raw.githubusercontent.com/rlaskey/block/master/block.txt
 ! https://github.com/rlaskey/block
 
-! a-mo-be
-||kontera.com^
 
 ! adMarketplace
 ||ampxchange.com^
 
 ! Adobe
-||adobetag.com^
+||adobedtm.com^
 ||demdex.net^
 ||omtrdc.net^
+
+! Amobee
+||kontera.com^
 
 ! Amplitude
 ||api.amplitude.com^
 
 ! AOL
+||adtechus.com^
 ||advertising.com^$third-party
 ||atwola.com^
 ||pictela.net^
@@ -28,10 +30,6 @@
 
 ! Bizo
 ||bizographics.com^
-
-! BlueKai: Oracle Marketing Cloud
-||bkrtx.com^
-||bluekai.com^$third-party
 
 ! Chartbeat
 ||chartbeat.net^
@@ -43,14 +41,23 @@
 ! Clicky
 ||getclicky.com^
 
+! Comscore
+||zqtk.net^
+
 ! Conversant
 ||fastclick.net^
 
 ! Criteo
+||criteo.com^$third-party
+||criteo.net^
 ||gscontxt.net^
 
 ! Effective Measure
 ||effectivemeasure.net^
+
+! Evidon
+||betrad.com^
+||evidon.com^$third-party
 
 ! eXelate
 ||exelator.com^
@@ -59,9 +66,6 @@
 ||atdmt.com^
 ||facebook.com/connect^
 ||facebook.com/tr^
-
-! Ghostery
-||betrad.com^
 
 ! Google
 ||doubleclick.net^
@@ -119,6 +123,11 @@
 ! OpenX
 ||servedbyopenx.com
 
+! Oracle
+||bkrtx.com^
+||bluekai.com^$third-party
+||nexac.com^
+
 ! Outbrain
 ||outbrain.com^$third-party
 ||visualrevenue.com^
@@ -138,6 +147,10 @@
 ! Signal.co
 ||btstatic.com^
 
+! Sizmek
+||pointroll.com^
+||serving-sys.com^
+
 ! Skimlinks
 ||skimresources.com^
 
@@ -145,6 +158,9 @@
 ||perfectmarket.com^$third-party
 ||taboola.com^$third-party
 ||taboolasyndication.com^
+
+! The Trade Desk
+||adsrvr.org^$third-party
 
 ! Tinypass
 ||swishu.com^
@@ -154,6 +170,7 @@
 ||tru.am^
 
 ! Twitter
+||ads-twitter.com^
 ||syndication.twitter.com^
 
 ! Vibrant
@@ -174,34 +191,41 @@
 ||admantx.com^$third-party
 ||adpushup.com^$third-party
 ||adsafeprotected.com^
+||adsymptotic.com^
+||amazon-adsystem.com^
 ||atom-data.io^
 ||boomtrain.com^$third-party
 ||bounceexchange.com^$third-party
 ||buysellads.com^$third-party
+||consensu.org^
 ||contextly.com^$third-party
 ||copperegg.com^$third-party
-||criteo.com^$third-party
 ||cxense.com^$third-party
 ||dynamicyield.com^$third-party
 ||ensighten.com^$third-party
 ||exoclick.com^$third-party
+||friendbuy.com^$third-party
 ||fwmrm.net^$third-party
 ||gigya.com^$third-party
 ||gravity.com^$third-party
 ||gumgum.com^$third-party
 ||kargo.com^$third-party
 ||kissmetrics.com^$third-party
+||liveperson.net^
 ||liverail.com^$third-party
 ||madisonlogic.com^$third-party
 ||mediavoice.com^$third-party
-||mookie1.com^$third-party
+||mookie1.com^
+||myvisualiq.net^
 ||optimizely.com^$third-party
 ||pagefair.com^$third-party
 ||parsely.com^$third-party
-||pointroll.com^$third-party
+||permutive.com^$third-party
 ||polarmobile.com^$third-party
 ||pubexchange.com^$third-party
 ||pubmatic.com^$third-party
+||qualitym8trics.com^
+||qwapi.com^
 ||recruitics.com^$third-party
 ||researchnow.com^$third-party
 ||revcontent.com^$third-party
@@ -209,17 +233,22 @@
 ||sail-horizon.com^
 ||saymedia.com^$third-party
 ||scorecardresearch.com^$third-party
+||sessioncam.com^$third-party
 ||sharethis.com^$third-party
 ||sharethrough.com^$third-party
 ||simplereach.com^$third-party
 ||sonobi.com^$third-party
 ||steelhousemedia.com^$third-party
+||summerhamster.com^
 ||swoop.com^$third-party
 ||tagsrvcs.com^
+||tapad.com^$third-party
 ||teads.tv^$third-party
 ||tubemogul.com^$third-party
 ||turn.com^$third-party
+||tvsquared.com^$third-party
 ||tynt.com^$third-party
+||ugdturner.com^
 ||umbel.com^$third-party
 ||woopra.com^$third-party
 ||yieldmo.com^$third-party
