@@ -17,6 +17,9 @@
 ! AppNexus
 ||adnxs.com^
 
+! Bombora
+||ml314.com^
+
 ! Chartbeat
 ||chartbeat.com^$third-party
 
@@ -94,18 +97,25 @@
 ! Others
 ||admantx.com^$third-party
 ||adsafeprotected.com^
+||adsymptotic.com^
+||advangelists.com^$third-party
 ||amazon-adsystem.com^
 ||boomtrain.com^$third-party
 ||bounceexchange.com^$third-party
+||clean.gg^
+||cookielaw.org^$third-party
 ||ensighten.com^$third-party
 ||mediavoice.com^$third-party
 ||optimizely.com^$third-party
 ||parsely.com^$third-party
 ||pubmatic.com^$third-party
 ||rubiconproject.com^$third-party
+||s-onetag.com^
 ||sail-horizon.com^
 ||scorecardresearch.com^$third-party
 ||sonobi.com^$third-party
 ||summerhamster.com^
+||trustx.org^$third-party
 ||turn.com^$third-party
 ||ugdturner.com^
+||usabilla.com^$third-party
