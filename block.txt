@@ -38,9 +38,11 @@
 
 ! Facebook
 ||atdmt.com^
+||connect.facebook.net^
 ||facebook.com/tr^
 
 ! Google
+||2mdn.net^
 ||doubleclick.net^
 ||google-analytics.com^
 ||googleadservices.com^
@@ -54,8 +56,14 @@
 ! Krux
 ||krxd.net^
 
+! MediaForce
+||mfadsrvr.com^$third-party
+
 ! MediaMath
 ||mathtag.com^
+
+! Merkle
+||rkdms.com^
 
 ! Moat
 ||moatads.com^
@@ -64,10 +72,12 @@
 ||imrworldwide.com^
 
 ! Oracle
+||bluekai.com^$third-party
 ||bkrtx.com^
 
 ! Outbrain
 ||outbrain.com^$third-party
+||zemanta.com^$third-party
 
 ! Quantcast
 ||quantserve.com^
@@ -80,6 +90,9 @@
 
 ! Taboola
 ||taboola.com^$third-party
+
+! Tealium
+||tiqcdn.com^
 
 ! The Trade Desk
 ||adsrvr.org^$third-party
@@ -95,6 +108,7 @@
 
 
 ! Others
+||3lift.com^$third-party
 ||admantx.com^$third-party
 ||adsafeprotected.com^
 ||adsymptotic.com^
@@ -104,8 +118,12 @@
 ||bounceexchange.com^$third-party
 ||clean.gg^
 ||cookielaw.org^$third-party
+||cxense.com^$third-party
+||cxpublic.com^
 ||ensighten.com^$third-party
+||media.net^$third-party
 ||mediavoice.com^$third-party
+||mparticle.com^$third-party
 ||optimizely.com^$third-party
 ||parsely.com^$third-party
 ||pubmatic.com^$third-party
