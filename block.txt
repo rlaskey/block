@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 
 ! Author: Richard Laskey https://www.rlaskey.org
-! https://raw.githubusercontent.com/rlaskey/block/master/block.txt
+! https://raw.githubusercontent.com/rlaskey/block/main/block.txt
 ! https://github.com/rlaskey/block
 
 
