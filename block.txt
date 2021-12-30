@@ -7,6 +7,7 @@
 
 ||2mdn.net^
 ||abstractedauthority.com^
+||ad-delivery.net^
 ||adnxs.com^
 ||ads-twitter.com^
 ||adsafeprotected.com^
@@ -51,3 +52,4 @@
 ||s-onetag.com^
 ||sail-personalize.com^
 ||scorecardresearch.com^
+||usabilla.com^
