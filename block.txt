@@ -5,135 +5,35 @@
 ! https://github.com/rlaskey/block
 
 
-! Adobe
-||adobedtm.com^
-||demdex.net^
-||omtrdc.net^
-
-! AOL
-||advertising.com^$third-party
-||atwola.com^
-
-! AppNexus
-||adnxs.com^
-
-! Bombora
-||ml314.com^
-
-! Chartbeat
-||chartbeat.com^$third-party
-
-! ClickTale
-||clicktale.net^
-
-! Comscore
-||zqtk.net^
-
-! Criteo
-||criteo.com^$third-party
-||criteo.net^
-
-! eXelate
-||exelator.com^
-
-! Facebook
-||atdmt.com^
-||connect.facebook.net^
-||facebook.com/tr^
-
-! Google
 ||2mdn.net^
+||abstractedauthority.com^
+||adnxs.com^
+||ads-twitter.com^
+||adsafeprotected.com^
+||adsrvr.org^
+||advertising.com^
+||amazon-adsystem.com^
+||analytics.twitter.com^
+||associates-amazon.com^
+||bounceexchange.com^
+||brandmetrics.com^
+||connect.facebook.net^
+||demdex.net^
 ||doubleclick.net^
+||facebook.com/tr^
 ||google-analytics.com^
 ||googleadservices.com^
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagservices.com^
-
-! Index Exchange
-||casalemedia.com^
-
-! Krux
-||krxd.net^
-
-! MediaForce
-||mfadsrvr.com^$third-party
-
-! MediaMath
+||hotjar.com^
+||hotjar.io^
 ||mathtag.com^
-
-! Merkle
-||rkdms.com^
-
-! Moat
+||mfadsrvr.com^
 ||moatads.com^
-
-! Nielsen
-||imrworldwide.com^
-
-! Oracle
-||bluekai.com^$third-party
-||bkrtx.com^
-
-! Outbrain
-||outbrain.com^$third-party
-||zemanta.com^$third-party
-
-! Quantcast
+||parsely.com^
+||pubmatic.com^
+||quantcount.com^
 ||quantserve.com^
-
-! Segment
-||cdn.segment.com^
-
-! Skimlinks
-||skimresources.com^
-
-! Taboola
-||taboola.com^$third-party
-
-! Tealium
-||tiqcdn.com^
-
-! The Trade Desk
-||adsrvr.org^$third-party
-
-! Tinypass
-||tinypass.com^$third-party
-
-! trueAnthem
-||tru.am^
-
-! Twitter
-||ads-twitter.com^
-
-
-! Others
-||3lift.com^$third-party
-||admantx.com^$third-party
-||adsafeprotected.com^
-||adsymptotic.com^
-||advangelists.com^$third-party
-||amazon-adsystem.com^
-||boomtrain.com^$third-party
-||bounceexchange.com^$third-party
-||clean.gg^
-||cookielaw.org^$third-party
-||cxense.com^$third-party
-||cxpublic.com^
-||ensighten.com^$third-party
-||media.net^$third-party
-||mediavoice.com^$third-party
-||mparticle.com^$third-party
-||optimizely.com^$third-party
-||parsely.com^$third-party
-||pubmatic.com^$third-party
-||rubiconproject.com^$third-party
-||s-onetag.com^
-||sail-horizon.com^
-||scorecardresearch.com^$third-party
-||sonobi.com^$third-party
-||summerhamster.com^
-||trustx.org^$third-party
-||turn.com^$third-party
-||ugdturner.com^
-||usabilla.com^$third-party
+||sail-personalize.com^
+||scorecardresearch.com^
