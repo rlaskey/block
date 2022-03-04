@@ -20,6 +20,8 @@
 ||bounceexchange.com^
 ||brandmetrics.com^
 ||casalemedia.com^
+||cedexis-radar.net^
+||cedexis.com^
 ||chartbeat.com^
 ||connect.facebook.net^
 ||cookielaw.org^
@@ -52,4 +54,5 @@
 ||s-onetag.com^
 ||sail-personalize.com^
 ||scorecardresearch.com^
+||trkn.us^
 ||usabilla.com^
