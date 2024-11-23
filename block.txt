@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 
-! Author: Richard Laskey https://www.rlaskey.org
+! Author: Richard Laskey
 ! https://raw.githubusercontent.com/rlaskey/block/main/block.txt
 ! https://github.com/rlaskey/block
 
@@ -12,7 +12,9 @@
 ||activemetering.com^
 ||ad-delivery.net^
 ||ad.gt^
+||adcolony.com^
 ||adnxs.com^
+||adobedtm.com^
 ||ads-twitter.com^
 ||adsafeprotected.com^
 ||adsrvr.org^
@@ -42,6 +44,7 @@
 ||everesttech.net^
 ||exelator.com^
 ||facebook.com/tr^
+||freshmarketer.com^
 ||fwmrm.net^
 ||geo.ngtv.io^
 ||geoedge.be^
@@ -55,10 +58,14 @@
 ||imrworldwide.com^
 ||krxd.net^
 ||liadm.com^
+||luckyorange.com^
+||luckyorange.net^
 ||mathtag.com^
+||media.net^
 ||mfadsrvr.com^
 ||ml314.com^
 ||moatads.com^
+||mouseflow.com^
 ||ntv.io^
 ||openx.net^
 ||outbrain.com^
