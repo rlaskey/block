@@ -44,6 +44,7 @@
 ||everesttech.net^
 ||exelator.com^
 ||facebook.com/tr^
+||fixedfold.com^
 ||freshmarketer.com^
 ||fwmrm.net^
 ||geo.ngtv.io^
@@ -56,6 +57,8 @@
 ||hotjar.com^
 ||hotjar.io^
 ||imrworldwide.com^
+||intergi.com^
+||klaviyo.com^
 ||krxd.net^
 ||liadm.com^
 ||luckyorange.com^
@@ -68,10 +71,12 @@
 ||mouseflow.com^
 ||ntv.io^
 ||openx.net^
+||osano.com^
 ||outbrain.com^
 ||parsely.com^
 ||permutive.app^
 ||pippio.com^
+||playwire.com^
 ||polarcdn-terrax.com^
 ||postrelease.com^
 ||pubmatic.com^
@@ -80,10 +85,12 @@
 ||rezync.com^
 ||rkdms.com^
 ||rlcdn.com^
+||rokt.com^
 ||rubiconproject.com^
 ||s-onetag.com^
 ||sail-personalize.com^
 ||scorecardresearch.com^
+||script.ac^
 ||semasio.net^
 ||skimresources.com^
 ||spotxchange.com^
@@ -91,6 +98,7 @@
 ||stickyadstv.com^
 ||taboola.com^
 ||teads.tv^
+||tiqcdn.com^
 ||trackonomics.net^
 ||tremorhub.com^
 ||trkn.us^
@@ -98,5 +106,6 @@
 ||usabilla.com^
 ||videoplayerhub.com^
 ||wmcdp.io^
+||yieldify.com^
 ||yieldmo.com^
 ||zqtk.net^
