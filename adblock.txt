@@ -1,13 +1,11 @@
 [Adblock Plus 2.0]
-
 ! Author: Richard Laskey
-! https://raw.githubusercontent.com/rlaskey/block/main/block.txt
 ! https://github.com/rlaskey/block
-
-
+! https://raw.githubusercontent.com/rlaskey/block/main/adblock.txt
 ||1rx.io^
 ||2mdn.net^
 ||360yield.com^
+||3lift.com^
 ||abstractedauthority.com^
 ||activemetering.com^
 ||ad-delivery.net^
@@ -20,9 +18,11 @@
 ||adsrvr.org^
 ||advertising.com^
 ||agkn.com^
+||akadns.net^
 ||amazon-adsystem.com^
 ||analytics.twitter.com^
 ||associates-amazon.com^
+||ay.delivery^
 ||behave.com^
 ||bidr.io^
 ||bluecava.com^
@@ -36,6 +36,7 @@
 ||clean.gg^
 ||connect.facebook.net^
 ||cookielaw.org^
+||cootlogix.com^
 ||criteo.com^
 ||crwdcntrl.net^
 ||demdex.net^
@@ -56,10 +57,16 @@
 ||googletagservices.com^
 ||hotjar.com^
 ||hotjar.io^
+||iadsdk.apple.com^
 ||imrworldwide.com^
+||indexww.com^
 ||intergi.com^
+||jsdelvr.com^
+||jwpltx.com^
+||kargo.com^
 ||klaviyo.com^
 ||krxd.net^
+||kueezrtb.com^
 ||liadm.com^
 ||luckyorange.com^
 ||luckyorange.net^
@@ -82,6 +89,7 @@
 ||pubmatic.com^
 ||quantcount.com^
 ||quantserve.com^
+||qwapi.com^
 ||rezync.com^
 ||rkdms.com^
 ||rlcdn.com^
@@ -91,7 +99,9 @@
 ||sail-personalize.com^
 ||scorecardresearch.com^
 ||script.ac^
+||seedtag.com^
 ||semasio.net^
+||sharethrough.com^
 ||skimresources.com^
 ||spotxchange.com^
 ||steadfastseat.com^
